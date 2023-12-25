@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;600;700&family=Montserrat:wght@200;300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    vertical-align: baseline;
+}
+
+body {
+    background: #1F1721;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+@layer components {
+    .btn-section {
+        @apply font-montserrat text-base font-light rounded-xl transition-all px-[5px] py-[5px] md:px-[15px] text-white cursor-pointer
+    }
+    .title {
+        @apply font-montserrat md:text-[40px] text-[25px] font-semibold text-[#FFF]
+    }
+}
+
+.bg-gradient {
+    background: linear-gradient(90deg, #882898 0%, #901FA3 100%);
+    box-shadow: 3px 4px 8px 0px rgba(201, 55, 225, 0.15);
+    border:1px solid transparent
+}
+.bg-gradient:hover {
+    border: 1px solid #FE6BFF;
+    background: rgba(0, 0, 0, 0.16);
+    color: #FE6BFF;
+}
+
+.bg-border {
+    border: 1px solid #FFF;
+    background: rgba(0, 0, 0, 0.16);
+}
+.bg-border:hover {
+    background: white;
+    box-shadow: 3px 4px 8px 0px rgba(201, 55, 225, 0.15);
+    border:1px solid transparent;
+    color: black;
+}
+.bg-data {
+    background: linear-gradient(90deg, rgba(60, 59, 59, 0.98) 20.95%, rgba(58, 57, 72, 0.98) 94.35%);
+    box-shadow: 0px 4px 500px 0px rgba(0, 0, 0, 0.25);
+}
+.button-border{
+    color: #FE6BFF;
+    border: 1px solid #FE6BFF;
+}
+.button-border:hover {
+    border: 1px solid transparent;
+    color: white;
+    background: #FE6BFF;
+}
+
+.button-icon {
+    width: 40px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    padding: 6px 9px;
+    cursor: pointer;
+    transition: .5s all;
+    display: inline-block;
+}
+
+.swiper-btn {
+    border-radius: 7px;
+    border: 1px solid rgba(204, 84, 220, 0.17);
+    background: rgba(210, 85, 226, 0.17);
+    color: rgba(219, 88, 236, 0.50);
+    width: 35px;
+    height: 31px;
+}
+.swiper-btn:hover {
+    color:white;
+    border: 1px solid white;
+}
+.swiper-two_btn {
+    width: 41px;
+    height: 38px;
+    border:1px solid #A658B3;
+    border-radius: 50%;
+    color: #A658B3;
+}
+.swiper-two_btn:hover {
+    color:white;
+    border: 1px solid white;
+}
+.swiper.height-one .swiper-wrapper{
+    height: 400px;
+}
+.swiper.height-two .swiper-wrapper{
+    height: 730px;
+}
+
+.swiper-auction {
+    border-radius: 47px;
+    background: #29212A;
+    box-shadow: 5px 5px 21px 0px rgba(0, 0, 0, 0.25);
+}
+
+.swiper-slide-fully-visible.swiper-slide-active .img {
+    height: 342px;
+    background-size: cover;
+}
+.swiper-slide-fully-visible.swiper-slide-active {
+    margin-top: -20px;
+    transition: .5s all;
+}
+@media (max-width:640px) {
+    .swiper-slide-fully-visible.swiper-slide-active .img {
+        height: 180px;
+    }
+    .swiper-slide-fully-visible.swiper-slide-active {
+        margin-top: 0;
+    }
+    .swiper.height-two .swiper-wrapper{
+    height: 650px;
+}
+}
+.card-four_bg {
+    background: rgba(54, 44, 56, 0.36);
+}
+
+.swiper-pagination-container {
+  margin-top: 50px;
+}
+.swiper-pagination {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.swiper-pagination-bullet {
+  width: 71px;
+  height: 7px;
+  border-radius: 70px;
+  background: #322A33;
+  cursor: pointer;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #A658B3;
+}
+input {
+    background: rgba(115, 8, 133, 0.50);
+}
+
+
+
+  
+  

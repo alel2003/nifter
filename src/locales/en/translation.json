@@ -1,0 +1,385 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "market": "Market",
+    "discover": "Discover",
+    "commonity": "Commonity",
+    "wallet": "Wallet",
+    "languages": {
+      "language": "Languages",
+      "ru": "Russian",
+      "en": "English"
+    }
+  },
+  "Home": {
+    "title": "Disсover, collect and sell dope NFTs",
+    "text": "The wold largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs)",
+    "button_one": "Explore",
+    "button_two": "Create",
+    "user_active": "User Active",
+    "artworks": "Artworks",
+    "artist": "Artist",
+    "hours": "Hours",
+    "mins": "Mins",
+    "secs": "Secs",
+    "current": "Current Bid",
+    "bid_now": "Bid now",
+    "see_item": "See item"
+  },
+  "Top_Seller": {
+    "title": "Top Seller",
+    "swiper_sliders": {
+      "name_one": "Jorg George",
+      "name_two": "Maria Stanton",
+      "name_three": "Kaiya Berti",
+      "name_four": "Anna Enabel",
+      "name_five": "Zain Berty",
+      "name_six": "Jordyn Nis",
+      "name_seven": "Katya Lin",
+      "name_eight": "Larisa Kim",
+      "name_nine": "Kamran Sattirov",
+      "name_ten": "Kirill Chehlatov"
+    }
+  },
+  "Live_Auction": {
+    "title": "Live Auction",
+    "swiper_card": [
+      {
+        "id": 1,
+        "title": "Onus Medu",
+        "text": "By davincidante",
+        "price": "5.12 ETH",
+        "stock": "8 in stock",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Plece Bid",
+        "button_two": "View",
+        "bg": "src/assets/auction/auctionOne.png",
+        "photo": "src/assets/auction/auctionUserOne.png"
+      },
+      {
+        "id": 2,
+        "title": "Dream Big",
+        "text": "Bi Itvrn",
+        "price": "2.45 ETH",
+        "stock": "6 in stock",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Plece Bid",
+        "button_two": "View",
+        "bg": "src/assets/auction/auctionTwo.png",
+        "photo": "src/assets/auction/auctionUserTwo.png"
+      },
+      {
+        "id": 3,
+        "title": "Oddoties",
+        "text": "By brellias",
+        "price": "1.45 ETH",
+        "stock": "63 in stock",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Plece Bid",
+        "button_two": "View",
+        "bg": "src/assets/auction/auctionThree.png",
+        "photo": "src/assets/auction/auctionUserThree.png"
+      },
+      {
+        "id": 4,
+        "title": "Onus Medu",
+        "text": "By davincidante",
+        "price": "5.12 ETH",
+        "stock": "8 in stock",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Plece Bid",
+        "button_two": "View",
+        "bg": "src/assets/auction/auctionOne.png",
+        "photo": "src/assets/auction/auctionUserOne.png"
+      },
+      {
+        "id": 5,
+        "title": "Dream Big",
+        "text": "Bi Itvrn",
+        "price": "2.45 ETH",
+        "stock": "6 in stock",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Plece Bid",
+        "button_two": "View",
+        "bg": "src/assets/auction/auctionTwo.png",
+        "photo": "src/assets/auction/auctionUserTwo.png"
+      },
+      {
+        "id": 6,
+        "title": "Oddoties",
+        "text": "By brellias",
+        "price": "1.45 ETH",
+        "stock": "63 in stock",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Plece Bid",
+        "button_two": "View",
+        "bg": "src/assets/auction/auctionThree.png",
+        "photo": "src/assets/auction/auctionUserThree.png"
+      }
+    ]
+  },
+  "Hot_Collection": {
+    "title": "Hot Collection",
+    "swiper_card": [
+      {
+        "id": 1,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockOne-2.png",
+        "three_img": "src/assets/collection/blockOne-3.png",
+        "four_img": "src/assets/collection/blockOne-4.png",
+        "item": "24 items",
+        "text": "Abstract"
+      },
+      {
+        "id": 2,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockTwo-2.png",
+        "three_img": "src/assets/collection/blockTwo-3.png",
+        "four_img": "src/assets/collection/blockTwo-4.png",
+        "item": "27 items",
+        "text": "Game"
+      },
+      {
+        "id": 3,
+        "one_img": "src/assets/collection/blockThree-1.png",
+        "two_img": "src/assets/collection/blockThree-2.png",
+        "three_img": "src/assets/collection/blockThree-3.png",
+        "four_img": "src/assets/collection/blockThree-4.png",
+        "item": "13 items",
+        "text": "3D"
+      },
+      {
+        "id": 4,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockOne-2.png",
+        "three_img": "src/assets/collection/blockOne-3.png",
+        "four_img": "src/assets/collection/blockOne-4.png",
+        "item": "24 items",
+        "text": "Abstract"
+      },
+      {
+        "id": 5,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockTwo-2.png",
+        "three_img": "src/assets/collection/blockTwo-3.png",
+        "four_img": "src/assets/collection/blockTwo-4.png",
+        "item": "27 items",
+        "text": "Game"
+      },
+      {
+        "id": 6,
+        "one_img": "src/assets/collection/blockThree-1.png",
+        "two_img": "src/assets/collection/blockThree-2.png",
+        "three_img": "src/assets/collection/blockThree-3.png",
+        "four_img": "src/assets/collection/blockThree-4.png",
+        "item": "13 items",
+        "text": "3D"
+      },
+      {
+        "id": 7,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockOne-2.png",
+        "three_img": "src/assets/collection/blockOne-3.png",
+        "four_img": "src/assets/collection/blockOne-4.png",
+        "item": "24 items",
+        "text": "Abstract"
+      },
+      {
+        "id": 8,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockTwo-2.png",
+        "three_img": "src/assets/collection/blockTwo-3.png",
+        "four_img": "src/assets/collection/blockTwo-4.png",
+        "item": "27 items",
+        "text": "Game"
+      },
+      {
+        "id": 9,
+        "one_img": "src/assets/collection/blockThree-1.png",
+        "two_img": "src/assets/collection/blockThree-2.png",
+        "three_img": "src/assets/collection/blockThree-3.png",
+        "four_img": "src/assets/collection/blockThree-4.png",
+        "item": "13 items",
+        "text": "3D"
+      },
+      {
+        "id": 10,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockOne-2.png",
+        "three_img": "src/assets/collection/blockOne-3.png",
+        "four_img": "src/assets/collection/blockOne-4.png",
+        "item": "24 items",
+        "text": "Abstract"
+      },
+      {
+        "id": 11,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockTwo-2.png",
+        "three_img": "src/assets/collection/blockTwo-3.png",
+        "four_img": "src/assets/collection/blockTwo-4.png",
+        "item": "27 items",
+        "text": "Game"
+      },
+      {
+        "id": 12,
+        "one_img": "src/assets/collection/blockThree-1.png",
+        "two_img": "src/assets/collection/blockThree-2.png",
+        "three_img": "src/assets/collection/blockThree-3.png",
+        "four_img": "src/assets/collection/blockThree-4.png",
+        "item": "13 items",
+        "text": "3D"
+      }
+    ]
+  },
+  "Hot_Works": {
+    "title":"Hot it Workss",
+    "text": "Getting started and seling your Nfts.Explore the full process so you dont have any cpnfusions.",
+    "btn": "Load More",
+    "wallet_title": "Set up your wallet",
+    "wallet_text": "To set up Apple Pay, add a debit, credit, or prepaid card to the Wallet app on your iPhone, Apple Watch, or other compatible device.",
+    "collection_title": "Create collection",
+    "collection_text": "In the command, name is name of collection to be created. Options is a document and is used to specify configuration",
+    "nfts_title": "Add your NFTs",
+    "nfts_text": "If you want to create a series of NFTs, you can use a collection to do so — on Rarible, you can create one right from the NFT creation screen",
+    "item_title": "List item for sale",
+    "item_text": "Creating a listing is the first step in getting your item in front of ... We have a range of tools and options to help make sure your listing ends in a sale."
+  },
+  "Digital_Creator": {
+    "title": "Are you a digital creator?",
+    "text": "Learn how Marketplace helps you protect and sell you runique digital creations, and join our growing community of thousand digital creators ",
+    "placeholder": "Enter your email",
+    "btn": "Get started "
+  },
+  "Explre_Artworks": {
+    "title": "Explre Artworks",
+    "btn": "Load more",
+    "title_tabs": [
+      "Recomendations",
+      "Music",
+      "Modern Art",
+      "3d",
+      "Watercolor"
+    ],
+    "content_one": [
+      {
+        "id": 1,
+        "img": "src/assets/explre/explreOne.png",
+        "title": "Vaporart",
+        "text": "by weidner art",
+        "price": 2.45,
+        "available": "1 of 1 available"
+      },
+       {
+         "id": 2,
+        "img": "src/assets/explre/explreTwo.png",
+         "title": "The Angel",
+         "text": "by visual 3d",
+         "price": 4.85,
+         "available": "1 of 1 available"
+       },
+       {
+         "id": 3,
+         "img": "src/assets/explre/explreThree.png",
+         "title": "Aesthetic",
+         "text": "by itvrn",
+         "price": 1.98,
+         "available": "1 of 1 available"
+       },
+       {
+         "id": 4,
+         "img": "src/assets/explre/explreFour.png",
+         "title": "Wadafox",
+         "text": "by wonder art ",
+         "price": 5.11,
+         "available": "1 of 1 available"
+       }
+    ],
+    "content_two": [
+      {
+        "id": 1,
+        "img": "src/assets/explre/explreTwo.png",
+        "title": "The Angel",
+        "text": "by visual 3d",
+        "price": 4.85,
+        "available": "1 of 1 available"
+      },
+      {
+        "id": 2,
+        "img": "src/assets/explre/explreOne.png",
+        "title": "Vaporart",
+        "text": "by weidner art",
+        "price": 2.45,
+        "available": "1 of 1 available"
+      },
+       {
+        "id": 3,
+        "img": "src/assets/explre/explreFour.png",
+        "title": "Wadafox",
+        "text": "by wonder art ",
+        "price": 5.11,
+        "available": "1 of 1 available"
+      },
+      {
+        "id": 4,
+        "img": "src/assets/explre/explreThree.png",
+        "title": "Aesthetic",
+        "text": "by itvrn",
+        "price": 1.98,
+        "available": "1 of 1 available"
+      }
+    ]
+  },
+  "Footer": {
+    "platform": "The worlds largest digital marketplace for crypto collectibities and non tokens (NFTs) Buy, Sell and discover exclusive digital assets",
+    "footer__links": [
+      {
+        "id": 1,
+        "title": "Explore",
+        "link_one": "Art",
+        "link_two": "Photography",
+        "link_three": "Music",
+        "link_four": "Games",
+        "to_one": "art",
+        "to_two": "photo",
+        "to_three": "music",
+        "to_four": "games"
+      },
+      {
+        "id": 2,
+        "title": "My Account",
+        "link_one": "My profile",
+        "link_two": "My collections",
+        "link_three": "My Favorites",
+        "link_four": "My Account Settings",
+        "to_one": "profile",
+        "to_two": "collection",
+        "to_three": "favorites",
+        "to_four": "settings"
+      },
+      {
+        "id": 3,
+        "title": "Company",
+        "link_one": "About",
+        "link_two": "Careers",
+        "link_three": "Rankings",
+        "link_four": "Activity",
+        "to_one": "about",
+        "to_two": "careers",
+        "to_three": "rankings",
+        "to_four": "activity"
+      },
+      {
+        "id": 4,
+        "title": "Resourses",
+        "link_one": "Help Centre",
+        "link_two": "Parthers",
+        "link_three": "Suggestions",
+        "link_four": "Newsletter",
+        "to_one": "help",
+        "to_two": "parthers",
+        "to_three": "suggestions",
+        "to_four": "newsletter"
+      }
+    ]
+  }
+}

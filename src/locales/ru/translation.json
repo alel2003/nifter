@@ -1,0 +1,385 @@
+{
+  "Navigation": {
+    "home": "Главная",
+    "market": "Рынок",
+    "discover": "Откройте",
+    "commonity": "Общность",
+    "wallet": "Бумажник",
+    "languages": {
+      "language": "Языки",
+      "ru": "Русский",
+      "en": "Английский"
+    }
+  },
+  "Home": {
+    "title": "Обезвреживание, сбор и продажа допинговых НМТ",
+    "text": "Крупнейшая в мире цифровая торговая площадка для коллекционных криптовалют и нефункционирующих токенов (НФТ)",
+    "button_one": "Изучите сайт",
+    "button_two": "Создать",
+    "user_active": "Активный пользователь",
+    "artworks": "Художественные произведения",
+    "artist": "Артист",
+    "hours": "Ч",
+    "mins": "М",
+    "secs": "С",
+    "current": "Текущая ставка",
+    "bid_now": "Сделать ставку",
+    "see_item": "см. статью"
+  },
+  "Top_Seller": {
+    "title": "Лучший продавец",
+    "swiper_sliders": {
+      "name_one": "Йорг Джордж",
+      "name_two": "Мария Стэнтон",
+      "name_three": "Кайя Берти",
+      "name_four": "Анна Энабель",
+      "name_five": "Заин Берти",
+      "name_six": "Джордин Нис",
+      "name_seven": "Катя Линь",
+      "name_eight": "Лариса Ким",
+      "name_nine": "Камран Саттиров",
+      "name_ten": "Кирилл Чехлатов"
+    }
+  },
+  "Live_Auction": {
+    "title": "Живой аукцион",
+    "swiper_card": [
+      {
+        "id": 1,
+        "title": "Онус Меду",
+        "text": "Автор davincidante",
+        "price": "5.12 ETH",
+        "stock": "8 в наличии",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Заявка",
+        "button_two": "Посмотреть",
+        "bg": "src/assets/auction/auctionOne.png",
+        "photo": "src/assets/auction/auctionUserOne.png"
+      },
+      {
+        "id": 2,
+        "title": "Большая мечта",
+        "text": "Bi Itvrn",
+        "price": "2.45 ETH",
+        "stock": "6 в наличии",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Заявка",
+        "button_two": "Посмотреть",
+        "bg": "src/assets/auction/auctionTwo.png",
+        "photo": "src/assets/auction/auctionUserTwo.png"
+      },
+      {
+        "id": 3,
+        "title": "Оддотис",
+        "text": "By brellias",
+        "price": "1.45 ETH",
+        "stock": "6 в наличии",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Заявка",
+        "button_two": "Посмотреть",
+        "bg": "src/assets/auction/auctionThree.png",
+        "photo": "src/assets/auction/auctionUserThree.png"
+      },
+      {
+        "id": 4,
+        "title": "Онус Меду",
+        "text": "Автор davincidante",
+        "price": "5.12 ETH",
+        "stock": "8 в наличии",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Заявка",
+        "button_two": "Посмотреть",
+        "bg": "src/assets/auction/auctionOne.png",
+        "photo": "src/assets/auction/auctionUserOne.png"
+      },
+      {
+        "id": 5,
+        "title": "Большая мечта",
+        "text": "Bi Itvrn",
+        "price": "2.45 ETH",
+        "stock": "6 в наличии",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Заявка",
+        "button_two": "Посмотреть",
+        "bg": "src/assets/auction/auctionTwo.png",
+        "photo": "src/assets/auction/auctionUserTwo.png"
+      },
+      {
+        "id": 6,
+        "title": "Оддотис",
+        "text": "By brellias",
+        "price": "1.45 ETH",
+        "stock": "6 в наличии",
+        "highest": "Highest bid 0.02Ethh",
+        "button_one": "Заявка",
+        "button_two": "Посмотреть",
+        "bg": "src/assets/auction/auctionThree.png",
+        "photo": "src/assets/auction/auctionUserThree.png"
+      }
+    ]
+  },
+  "Hot_Collection": {
+    "title": "Hot Collection",
+    "swiper_card": [
+      {
+        "id": 1,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockOne-2.png",
+        "three_img": "src/assets/collection/blockOne-3.png",
+        "four_img": "src/assets/collection/blockOne-4.png",
+        "item": "24 предмета",
+        "text": "Абстракция"
+      },
+      {
+        "id": 2,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockTwo-2.png",
+        "three_img": "src/assets/collection/blockTwo-3.png",
+        "four_img": "src/assets/collection/blockTwo-4.png",
+        "item": "27 предмета",
+        "text": "Игра"
+      },
+      {
+        "id": 3,
+        "one_img": "src/assets/collection/blockThree-1.png",
+        "two_img": "src/assets/collection/blockThree-2.png",
+        "three_img": "src/assets/collection/blockThree-3.png",
+        "four_img": "src/assets/collection/blockThree-4.png",
+        "item": "13 предмета",
+        "text": "3D"
+      },
+      {
+        "id": 4,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockOne-2.png",
+        "three_img": "src/assets/collection/blockOne-3.png",
+        "four_img": "src/assets/collection/blockOne-4.png",
+        "item": "24 предмета",
+        "text": "Абстракция"
+      },
+      {
+        "id": 5,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockTwo-2.png",
+        "three_img": "src/assets/collection/blockTwo-3.png",
+        "four_img": "src/assets/collection/blockTwo-4.png",
+        "item": "27 предмета",
+        "text": "Игра"
+      },
+      {
+        "id": 6,
+        "one_img": "src/assets/collection/blockThree-1.png",
+        "two_img": "src/assets/collection/blockThree-2.png",
+        "three_img": "src/assets/collection/blockThree-3.png",
+        "four_img": "src/assets/collection/blockThree-4.png",
+        "item": "13 предмета",
+        "text": "3D"
+      },
+      {
+        "id": 7,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockOne-2.png",
+        "three_img": "src/assets/collection/blockOne-3.png",
+        "four_img": "src/assets/collection/blockOne-4.png",
+        "item": "24 предмета",
+        "text": "Абстракция"
+      },
+      {
+        "id": 8,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockTwo-2.png",
+        "three_img": "src/assets/collection/blockTwo-3.png",
+        "four_img": "src/assets/collection/blockTwo-4.png",
+        "item": "27 предмета",
+        "text": "Игра"
+      },
+      {
+        "id": 9,
+        "one_img": "src/assets/collection/blockThree-1.png",
+        "two_img": "src/assets/collection/blockThree-2.png",
+        "three_img": "src/assets/collection/blockThree-3.png",
+        "four_img": "src/assets/collection/blockThree-4.png",
+        "item": "13 предмета",
+        "text": "3D"
+      },
+      {
+        "id": 10,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockOne-2.png",
+        "three_img": "src/assets/collection/blockOne-3.png",
+        "four_img": "src/assets/collection/blockOne-4.png",
+        "item": "24 предмета",
+        "text": "Абстракция"
+      },
+      {
+        "id": 11,
+        "one_img": "src/assets/collection/blockTwo-1.png",
+        "two_img": "src/assets/collection/blockTwo-2.png",
+        "three_img": "src/assets/collection/blockTwo-3.png",
+        "four_img": "src/assets/collection/blockTwo-4.png",
+        "item": "27 предмета",
+        "text": "Игра"
+      },
+      {
+        "id": 12,
+        "one_img": "src/assets/collection/blockThree-1.png",
+        "two_img": "src/assets/collection/blockThree-2.png",
+        "three_img": "src/assets/collection/blockThree-3.png",
+        "four_img": "src/assets/collection/blockThree-4.png",
+        "item": "13 предмета",
+        "text": "3D"
+      }
+    ]
+  },
+  "Hot_Works": {
+    "title": "Горячая работа",
+    "text": "Начало работы и продажа Nfts.Изучите весь процесс, чтобы у вас не было никаких сомнений.",
+    "btn": "Подробнее",
+    "wallet_title": "Настройка кошелька",
+    "wallet_text": "Чтобы настроить Apple Pay, добавьте дебетовую, кредитную или предоплаченную карту в приложение Wallet на iPhone, Apple Watch или другом совместимом устройстве.",
+    "collection_title": "Создание коллекции",
+    "collection_text": "В команде name - это имя создаваемой коллекции. Options является документом и используется для задания конфигурации",
+    "nfts_title": "Добавить свои НФТ",
+    "nfts_text": "Если вы хотите создать серию NFT, вы можете использовать для этого коллекцию - в Rarible вы можете создать ее прямо на экране создания NFT",
+    "item_title": "Выставить товар на продажу",
+    "item_text": "Создание объявления - это первый шаг на пути к тому, чтобы ваш товар был замечен ... У нас есть ряд инструментов и опций, которые помогут обеспечить продажу вашего объявления."
+  },
+  "Digital_Creator": {
+    "title": "Являетесь ли вы цифровым творцом?",
+    "text": "Узнайте, как Marketplace помогает вам защищать и продавать свои рунические цифровые творения, и присоединяйтесь к нашему растущему сообществу, состоящему из тысяч цифровых творцов.",
+    "placeholder": "Введите свой e-mail",
+    "btn": "Приступить"
+  },
+  "Explre_Artworks": {
+    "title": "Работы Explre",
+    "btn": "Больше",
+    "title_tabs": [
+      "Рекомендации",
+      "Музыка",
+      "Современное искусство",
+      "3d",
+      "Акварель"
+    ],
+    "content_one": [
+      {
+        "id": 1,
+        "img_one": "src/assets/explre/explreOne.png",
+        "title": "Vaporart",
+        "text": "Автор: Вайднер Арт",
+        "price": 2.45,
+        "available": "1 из 1 в наличии"
+      },
+      {
+        "id": 2,
+        "img_two": "src/assets/explre/explreTwo.png",
+        "title": "The Angel",
+        "text": "визуальный 3d",
+        "price": 4.85,
+        "available": "1 из 1 в наличии"
+      },
+      {
+        "id": 3,
+        "img_three": "src/assets/explre/explreThree.png",
+        "title": "Aesthetic",
+        "text": "автор itvrn",
+        "price": 1.98,
+        "available": "1 из 1 в наличии"
+      },
+      {
+        "id": 4,
+        "img_four": "src/assets/explre/explreFour.png",
+        "title": "Wadafox",
+        "text": "от чудо-арта",
+        "price": 5.11,
+        "available": "1 из 1 в наличии"
+      }
+    ],
+    "content_two": [
+      {
+        "id": 1,
+        "img_two": "src/assets/explre/explreTwo.png",
+        "title": "The Angel",
+        "text": "визуальный 3d",
+        "price": 4.85,
+        "available": "1 из 1 в наличии"
+      },
+      {
+        "id": 2,
+        "img_one": "src/assets/explre/explreOne.png",
+        "title": "Vaporart",
+        "text": "Автор: Вайднер Арт",
+        "price": 2.45,
+        "available": "1 из 1 в наличии"
+      },
+       {
+        "id": 3,
+        "img_four": "src/assets/explre/explreFour.png",
+        "title": "Wadafox",
+        "text": "от чудо-арта",
+        "price": 5.11,
+        "available": "1 из 1 в наличии"
+      },
+      {
+        "id": 4,
+        "img_three": "src/assets/explre/explreThree.png",
+        "title": "Aesthetic",
+        "text": "автор itvrn",
+        "price": 1.98,
+        "available": "1 из 1 в наличии"
+      }
+    ]
+  },
+  "Footer": {
+    "platform": "Крупнейшая в мире цифровая торговая площадка для коллекционных криптовалют и не токенов (NFT) Покупайте, продавайте и открывайте для себя эксклюзивные цифровые активы",
+    "footer__links": [
+      {
+        "id": 1,
+        "title": "Изучите сайт",
+        "link_one": "Искусство",
+        "link_two": "Фотография",
+        "link_three": "Музыка",
+        "link_four": "Игры",
+        "to_one": "art",
+        "to_two": "photo",
+        "to_three": "music",
+        "to_four": "games"
+      },
+      {
+        "id": 2,
+        "title": "Мой счет",
+        "link_one": "Мой профиль",
+        "link_two": "Мои коллекции",
+        "link_three": "Мое избранное",
+        "link_four": "Настройки моего аккаунта",
+        "to_one": "profile",
+        "to_two": "collection",
+        "to_three": "favorites",
+        "to_four": "settings"
+      },
+      {
+        "id": 3,
+        "title": "Компания",
+        "link_one": "О сайте",
+        "link_two": "Карьера",
+        "link_three": "Рейтинги",
+        "link_four": "Деятельность",
+        "to_one": "about",
+        "to_two": "careers",
+        "to_three": "rankings",
+        "to_four": "activity"
+      },
+      {
+        "id": 4,
+        "title": "Ресурсы",
+        "link_one": "Справочный центр",
+        "link_two": "Parthers",
+        "link_three": "Предложения",
+        "link_four": "Информационная рассылка",
+        "to_one": "help",
+        "to_two": "parthers",
+        "to_three": "suggestions",
+        "to_four": "newsletter"
+      }
+    ]
+  }
+}
